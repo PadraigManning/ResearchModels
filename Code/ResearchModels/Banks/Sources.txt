@@ -1,0 +1,27 @@
+FHLB (Federal Home Loan Banks) - Bloomberg - https://www.bloomberg.com/news/articles/2023-03-20/fhlb-issues-304-billion-in-one-week-as-banks-bolster-liquidity
+Global Recession risks - The World Bank - https://www.worldbank.org/en/news/press-release/2022/09/15/risk-of-global-recession-in-2023-rises-amid-simultaneous-rate-hikes
+SVB Share Sale - Routers - https://www.reuters.com/business/finance/silicon-valley-bank-sell-stock-cope-with-cash-burn-2023-03-09/
+Price to book analysis - routers - https://www.reuters.com/markets/companies/WFC.N/
+NYC Bancorp to buy Signature - Routers - https://www.reuters.com/markets/deals/fdic-announces-agreement-sell-signature-bank-assets-new-york-community-bancorp-2023-03-19/
+Silvergate Bank: The Canary In The Banking (Not Crypto) Coal Mine - Forbes - https://www.forbes.com/sites/digital-assets/2023/03/09/silvergate-bank-the-canary-in-the-banking-not-crypto-coal-mine/?sh=7726aaacb383 
+Peter Thiel* Hyprocracy tech bros - New statesman - https://www.newstatesman.com/quickfire/2023/03/silicon-valley-bank-collapse-hypocrisy-libertarian-tech-bros
+Credit tratings - trading economics - https://tradingeconomics.com/country-list/rating
+
+
+JPMorgan advising on another* lifeline to first republic - CNN - https://www.msn.com/en-us/money/other/jpmorgan-is-advising-first-republic-on-another-potential-lifeline-sources-say/ar-AA18TMaX
+
+What happens when banks go bust - Times - https://www.thetimes.co.uk/money-mentor/article/financial-crisis-bank-collapse-savings-safe/
+
+Business that requires instant liquidity for depositors, but utilise most of the money to make 30 year home-loans that are 20x leveraged, moral hazard that depositors see little-to-no upside of those loans. Something does wrong
+"there goes your money"
+
+Scrutiny of other 'assets'
+Loan repayments are not a fixed value, loans go bad as borrowers face changes to economic conditions that leave them unable to pay those loans. -Analyise cost of living, contractions in consumer spending, default rate on loans, 
+ABX Subprime mortgage backed securities, credit crisis of Klarna etc
+
+OOC Chairperson?
+
+CD code
+cd researchmodels
+git add .
+git commit -m 'Bank analysis'
